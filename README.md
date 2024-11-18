@@ -6,4 +6,6 @@
 # 3. [Node Pools](./03.%20Node%20Pools.md)
 # 4. [Networking](./04.%20Networking.md)
 # 5. [Storage](./05.%20Storage.md)
-# 5. [Practica](./06.%20Practica.md)
+# 6. [ACR](./06.%20ACR.md)
+# 7. [Escalado](./07.%20Escalado.md)
+# 7. [Practica](./07.%20Practica.md)
