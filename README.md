@@ -8,4 +8,4 @@
 # 5. [Storage](./05.%20Storage.md)
 # 6. [ACR](./06.%20ACR.md)
 # 7. [Escalado](./07.%20Escalado.md)
-# 7. [Practica](./07.%20Practica.md)
+# 8. [Practica](./08.%20Practica.md)
