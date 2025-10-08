@@ -1,5 +1,5 @@
 # AGIC for containers  <!-- omit in toc -->
-> [Gateway API](https://learn.microsoft.com/en-us/azure/application-gateway/for-containers/gateway-api)
+> [Gateway API](https://learn.microsoft.com/en-us/azure/application-gateway/for-containers/overview)
 
 > [Deploy ALB Controller](https://learn.microsoft.com/en-us/azure/application-gateway/for-containers/quickstart-deploy-application-gateway-for-containers-alb-controller?tabs=install-helm-windows)
 
