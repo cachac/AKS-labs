@@ -473,15 +473,15 @@ curl -i -H "Host: carlos.kubelabs.dev" czatbqe5ajckfgdj.fz87.alb.azure.com
 ```
 
 ### 5.6.1. Probar en Browser (http)
+Debe agregar el CNAME al DNS de su proveedor.
+
+Para pruebas locales puede buscar la IP del FQDN del gateway (ping) y agregarla al /etc/hosts
+
 
 # Eliminar recursos
 ```sh
 # aks
 az aks delete --name $AKS_NAME --resource-group $RG
-
-# aks resource group
-mcResourceGroup=$(az aks show --resource-group $RG --name $AKS_NAME --query "nodeResourceGroup" -o tsv)
-az group delete --name $mcResourceGroup
 
 # azure resource group
 az group delete --name $RG
